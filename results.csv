@@ -1,0 +1,8 @@
+login;password;hash_type;ip;port
+admin;admin;md5;10.0.2.15;50726
+admin;admin;sha1;10.0.2.15;50747
+admin;admin;sha256;10.0.2.15;50758
+admin;root;sha256;10.0.2.15;50774
+admin;azerty;sha1;10.0.2.15;50798
+admin;azerty;md5;10.0.2.15;50800
+admin;;md5;10.0.2.15;50822
